@@ -1,0 +1,339 @@
+2024-06-28 06:05:41,316 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-28 06:05:41,323 INFO supervisord started with pid 1
+2024-06-28 06:05:42,345 INFO spawned: 'cron_init' with pid 8
+2024-06-28 06:05:43,362 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-28 06:05:50,413 WARN received SIGTERM indicating exit request
+2024-06-28 06:05:50,417 INFO waiting for cron_init to die
+2024-06-28 06:05:50,425 WARN stopped: cron_init (terminated by SIGTERM)
+2024-06-28 06:05:59,226 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-28 06:05:59,232 INFO supervisord started with pid 1
+2024-06-28 06:06:00,266 INFO spawned: 'cron_init' with pid 8
+2024-06-28 06:06:01,285 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-28 06:13:42,713 WARN received SIGTERM indicating exit request
+2024-06-28 06:13:42,717 INFO waiting for cron_init to die
+2024-06-28 06:13:42,729 WARN stopped: cron_init (terminated by SIGTERM)
+2024-07-06 10:50:44,718 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-07-06 10:50:44,726 INFO supervisord started with pid 1
+2024-07-06 10:50:45,742 INFO spawned: 'cron_init' with pid 8
+2024-07-06 10:50:46,751 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:50:47,016 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:50:48,027 INFO spawned: 'cron_init' with pid 11
+2024-07-06 10:50:49,034 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:50:49,141 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:50:50,148 INFO spawned: 'cron_init' with pid 14
+2024-07-06 10:50:51,154 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:50:51,269 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:50:52,284 INFO spawned: 'cron_init' with pid 17
+2024-07-06 10:50:53,291 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:50:53,373 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:50:54,379 INFO spawned: 'cron_init' with pid 20
+2024-07-06 10:50:55,385 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:50:55,495 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:50:56,513 INFO spawned: 'cron_init' with pid 23
+2024-07-06 10:50:57,533 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:50:57,653 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:50:58,664 INFO spawned: 'cron_init' with pid 26
+2024-07-06 10:50:59,670 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:50:59,868 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:00,885 INFO spawned: 'cron_init' with pid 29
+2024-07-06 10:51:01,895 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:02,059 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:03,068 INFO spawned: 'cron_init' with pid 32
+2024-07-06 10:51:04,096 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:04,211 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:05,238 INFO spawned: 'cron_init' with pid 35
+2024-07-06 10:51:06,245 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:06,350 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:07,372 INFO spawned: 'cron_init' with pid 38
+2024-07-06 10:51:08,384 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:08,472 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:09,490 INFO spawned: 'cron_init' with pid 41
+2024-07-06 10:51:10,506 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:10,615 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:11,634 INFO spawned: 'cron_init' with pid 44
+2024-07-06 10:51:12,643 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:12,739 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:13,760 INFO spawned: 'cron_init' with pid 47
+2024-07-06 10:51:14,782 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:14,907 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:15,927 INFO spawned: 'cron_init' with pid 50
+2024-07-06 10:51:16,939 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:17,051 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:18,064 INFO spawned: 'cron_init' with pid 53
+2024-07-06 10:51:19,073 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:19,222 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:20,236 INFO spawned: 'cron_init' with pid 56
+2024-07-06 10:51:21,242 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:21,399 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:22,407 INFO spawned: 'cron_init' with pid 59
+2024-07-06 10:51:23,413 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:23,629 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:24,636 INFO spawned: 'cron_init' with pid 62
+2024-07-06 10:51:25,641 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:25,841 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:26,858 INFO spawned: 'cron_init' with pid 65
+2024-07-06 10:51:27,867 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:28,035 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:29,044 INFO spawned: 'cron_init' with pid 68
+2024-07-06 10:51:30,049 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:30,158 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:31,163 INFO spawned: 'cron_init' with pid 71
+2024-07-06 10:51:32,165 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:32,328 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:33,336 INFO spawned: 'cron_init' with pid 74
+2024-07-06 10:51:34,343 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:34,463 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:35,469 INFO spawned: 'cron_init' with pid 77
+2024-07-06 10:51:36,493 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:36,624 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:37,632 INFO spawned: 'cron_init' with pid 80
+2024-07-06 10:51:38,637 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:38,806 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:39,819 INFO spawned: 'cron_init' with pid 83
+2024-07-06 10:51:40,823 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:40,974 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:41,992 INFO spawned: 'cron_init' with pid 86
+2024-07-06 10:51:43,001 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:43,150 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:44,155 INFO spawned: 'cron_init' with pid 89
+2024-07-06 10:51:45,158 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:45,321 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:46,326 INFO spawned: 'cron_init' with pid 92
+2024-07-06 10:51:47,333 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:47,524 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:48,527 INFO spawned: 'cron_init' with pid 95
+2024-07-06 10:51:49,535 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:49,649 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:50,659 INFO spawned: 'cron_init' with pid 98
+2024-07-06 10:51:51,661 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:51,828 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:52,833 INFO spawned: 'cron_init' with pid 101
+2024-07-06 10:51:53,838 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:53,963 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:54,968 INFO spawned: 'cron_init' with pid 104
+2024-07-06 10:51:55,972 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:56,092 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:57,097 INFO spawned: 'cron_init' with pid 107
+2024-07-06 10:51:58,100 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:51:58,231 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:51:59,236 INFO spawned: 'cron_init' with pid 110
+2024-07-06 10:52:00,237 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:52:00,358 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:52:01,381 INFO spawned: 'cron_init' with pid 113
+2024-07-06 10:52:02,395 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:52:02,540 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:52:03,543 INFO spawned: 'cron_init' with pid 116
+2024-07-06 10:52:04,548 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:52:04,716 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:52:05,722 INFO spawned: 'cron_init' with pid 119
+2024-07-06 10:52:06,726 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:52:06,841 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:52:07,845 INFO spawned: 'cron_init' with pid 122
+2024-07-06 10:52:08,848 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:52:09,030 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:52:10,035 INFO spawned: 'cron_init' with pid 125
+2024-07-06 10:52:11,038 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:52:11,219 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:52:12,224 INFO spawned: 'cron_init' with pid 128
+2024-07-06 10:52:13,227 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:52:13,392 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:52:14,396 INFO spawned: 'cron_init' with pid 131
+2024-07-06 10:52:15,403 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:52:15,514 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:52:16,534 INFO spawned: 'cron_init' with pid 134
+2024-07-06 10:52:17,545 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:52:17,631 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:52:18,654 INFO spawned: 'cron_init' with pid 137
+2024-07-06 10:52:19,662 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:52:19,768 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:52:20,795 INFO spawned: 'cron_init' with pid 140
+2024-07-06 10:52:21,809 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:52:21,913 INFO exited: cron_init (exit status 0; expected)
+2024-07-06 10:52:22,938 INFO spawned: 'cron_init' with pid 143
+2024-07-06 10:52:23,951 INFO success: cron_init entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 10:52:23,952 WARN received SIGTERM indicating exit request
+2024-07-06 10:52:23,953 INFO waiting for cron_init to die
+2024-07-06 10:52:23,956 WARN stopped: cron_init (terminated by SIGTERM)
+2024-07-06 11:00:20,113 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-07-06 11:00:20,121 INFO supervisord started with pid 1
+2024-07-06 11:00:21,158 INFO spawned: 'app' with pid 8
+2024-07-06 11:00:22,179 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:00:22,282 INFO exited: app (exit status 0; expected)
+2024-07-06 11:00:23,307 INFO spawned: 'app' with pid 11
+2024-07-06 11:00:24,320 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:00:24,403 INFO exited: app (exit status 0; expected)
+2024-07-06 11:00:25,424 INFO spawned: 'app' with pid 14
+2024-07-06 11:00:26,440 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:00:26,536 INFO exited: app (exit status 0; expected)
+2024-07-06 11:00:27,543 INFO spawned: 'app' with pid 17
+2024-07-06 11:00:28,548 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:00:28,612 INFO exited: app (exit status 0; expected)
+2024-07-06 11:00:29,623 INFO spawned: 'app' with pid 20
+2024-07-06 11:00:30,628 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:00:30,713 INFO exited: app (exit status 0; expected)
+2024-07-06 11:00:31,723 INFO spawned: 'app' with pid 23
+2024-07-06 11:00:32,728 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:00:32,791 INFO exited: app (exit status 0; expected)
+2024-07-06 11:00:33,800 INFO spawned: 'app' with pid 26
+2024-07-06 11:00:34,806 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:00:34,862 INFO exited: app (exit status 0; expected)
+2024-07-06 11:00:35,886 INFO spawned: 'app' with pid 29
+2024-07-06 11:00:36,892 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:00:36,968 INFO exited: app (exit status 0; expected)
+2024-07-06 11:00:37,995 INFO spawned: 'app' with pid 32
+2024-07-06 11:00:39,000 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:00:39,066 INFO exited: app (exit status 0; expected)
+2024-07-06 11:00:40,079 INFO spawned: 'app' with pid 35
+2024-07-06 11:00:41,084 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:00:41,222 INFO exited: app (exit status 0; expected)
+2024-07-06 11:00:42,227 INFO spawned: 'app' with pid 38
+2024-07-06 11:00:43,227 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:00:43,272 INFO exited: app (exit status 0; expected)
+2024-07-06 11:00:44,287 INFO spawned: 'app' with pid 41
+2024-07-06 11:00:45,299 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:00:45,386 INFO exited: app (exit status 0; expected)
+2024-07-06 11:00:46,393 INFO spawned: 'app' with pid 44
+2024-07-06 11:00:47,399 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:00:47,467 INFO exited: app (exit status 0; expected)
+2024-07-06 11:00:48,474 INFO spawned: 'app' with pid 47
+2024-07-06 11:00:49,478 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:00:49,539 INFO exited: app (exit status 0; expected)
+2024-07-06 11:00:50,560 INFO spawned: 'app' with pid 50
+2024-07-06 11:00:51,573 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:00:51,643 INFO exited: app (exit status 0; expected)
+2024-07-06 11:00:52,652 INFO spawned: 'app' with pid 53
+2024-07-06 11:00:53,658 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:00:53,716 INFO exited: app (exit status 0; expected)
+2024-07-06 11:00:54,727 INFO spawned: 'app' with pid 56
+2024-07-06 11:00:55,730 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:00:55,790 INFO exited: app (exit status 0; expected)
+2024-07-06 11:00:56,794 INFO spawned: 'app' with pid 59
+2024-07-06 11:00:57,802 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:00:57,863 INFO exited: app (exit status 0; expected)
+2024-07-06 11:00:58,868 INFO spawned: 'app' with pid 62
+2024-07-06 11:00:59,870 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:00,014 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:01,023 INFO spawned: 'app' with pid 65
+2024-07-06 11:01:02,027 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:02,097 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:03,106 INFO spawned: 'app' with pid 68
+2024-07-06 11:01:04,111 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:04,198 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:05,202 INFO spawned: 'app' with pid 71
+2024-07-06 11:01:06,204 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:06,320 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:07,329 INFO spawned: 'app' with pid 74
+2024-07-06 11:01:08,337 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:08,434 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:09,442 INFO spawned: 'app' with pid 77
+2024-07-06 11:01:10,444 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:10,542 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:11,547 INFO spawned: 'app' with pid 80
+2024-07-06 11:01:12,555 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:12,692 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:13,696 INFO spawned: 'app' with pid 83
+2024-07-06 11:01:14,703 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:14,803 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:15,809 INFO spawned: 'app' with pid 86
+2024-07-06 11:01:16,811 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:16,868 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:17,871 INFO spawned: 'app' with pid 89
+2024-07-06 11:01:18,873 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:18,959 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:19,963 INFO spawned: 'app' with pid 92
+2024-07-06 11:01:20,966 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:21,052 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:22,060 INFO spawned: 'app' with pid 95
+2024-07-06 11:01:23,067 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:23,163 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:24,167 INFO spawned: 'app' with pid 98
+2024-07-06 11:01:25,169 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:25,313 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:26,318 INFO spawned: 'app' with pid 101
+2024-07-06 11:01:27,321 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:27,492 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:28,501 INFO spawned: 'app' with pid 104
+2024-07-06 11:01:29,509 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:29,592 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:30,597 INFO spawned: 'app' with pid 107
+2024-07-06 11:01:31,604 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:31,781 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:32,789 INFO spawned: 'app' with pid 110
+2024-07-06 11:01:33,793 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:33,921 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:34,938 INFO spawned: 'app' with pid 113
+2024-07-06 11:01:35,945 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:36,045 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:37,062 INFO spawned: 'app' with pid 116
+2024-07-06 11:01:38,074 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:38,189 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:39,213 INFO spawned: 'app' with pid 119
+2024-07-06 11:01:40,224 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:40,290 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:41,307 INFO spawned: 'app' with pid 122
+2024-07-06 11:01:42,314 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:42,473 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:43,483 INFO spawned: 'app' with pid 125
+2024-07-06 11:01:44,494 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:44,582 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:45,591 INFO spawned: 'app' with pid 128
+2024-07-06 11:01:46,601 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:46,671 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:47,687 INFO spawned: 'app' with pid 131
+2024-07-06 11:01:48,697 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:48,825 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:49,845 INFO spawned: 'app' with pid 134
+2024-07-06 11:01:50,855 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:50,923 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:51,934 INFO spawned: 'app' with pid 137
+2024-07-06 11:01:52,948 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:53,076 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:54,087 INFO spawned: 'app' with pid 140
+2024-07-06 11:01:55,093 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:55,167 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:56,190 INFO spawned: 'app' with pid 143
+2024-07-06 11:01:57,201 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:57,314 INFO exited: app (exit status 0; expected)
+2024-07-06 11:01:58,334 INFO spawned: 'app' with pid 146
+2024-07-06 11:01:59,342 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:01:59,473 INFO exited: app (exit status 0; expected)
+2024-07-06 11:02:00,491 INFO spawned: 'app' with pid 149
+2024-07-06 11:02:01,500 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:02:01,637 INFO exited: app (exit status 0; expected)
+2024-07-06 11:02:02,649 INFO spawned: 'app' with pid 152
+2024-07-06 11:02:03,658 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:02:03,829 INFO exited: app (exit status 0; expected)
+2024-07-06 11:02:04,836 INFO spawned: 'app' with pid 155
+2024-07-06 11:02:05,838 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:02:05,944 INFO exited: app (exit status 0; expected)
+2024-07-06 11:02:06,954 INFO spawned: 'app' with pid 158
+2024-07-06 11:02:07,957 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:02:08,010 INFO exited: app (exit status 0; expected)
+2024-07-06 11:02:09,019 INFO spawned: 'app' with pid 161
+2024-07-06 11:02:10,027 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:02:10,079 INFO exited: app (exit status 0; expected)
+2024-07-06 11:02:11,092 INFO spawned: 'app' with pid 164
+2024-07-06 11:02:12,098 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:02:12,219 INFO exited: app (exit status 0; expected)
+2024-07-06 11:02:13,229 INFO spawned: 'app' with pid 167
+2024-07-06 11:02:14,241 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:02:14,314 INFO exited: app (exit status 0; expected)
+2024-07-06 11:02:15,336 INFO spawned: 'app' with pid 170
+2024-07-06 11:02:16,347 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:02:16,436 INFO exited: app (exit status 0; expected)
+2024-07-06 11:02:17,463 INFO spawned: 'app' with pid 173
+2024-07-06 11:02:18,470 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:02:18,558 INFO exited: app (exit status 0; expected)
+2024-07-06 11:02:19,576 INFO spawned: 'app' with pid 176
+2024-07-06 11:02:20,592 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:02:20,790 INFO exited: app (exit status 0; expected)
+2024-07-06 11:02:21,811 INFO spawned: 'app' with pid 179
+2024-07-06 11:02:22,819 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:02:22,917 INFO exited: app (exit status 0; expected)
+2024-07-06 11:02:23,932 INFO spawned: 'app' with pid 182
+2024-07-06 11:02:24,937 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 11:02:25,032 INFO exited: app (exit status 0; expected)
+2024-07-06 11:02:26,048 INFO spawned: 'app' with pid 185
+2024-07-06 11:02:26,050 WARN received SIGTERM indicating exit request
+2024-07-06 11:02:26,055 INFO waiting for app to die
+2024-07-06 11:02:27,134 INFO stopped: app (exit status 0)

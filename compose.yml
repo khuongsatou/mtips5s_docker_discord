@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  discord:
+    platform: linux/amd64
+    # build: .
+    image: khuong123/mtips5s_discord:dev_1
+    container_name: mtips5s_discord
+    working_dir: /app
+    volumes:
+      - .:/app
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    
+    networks:
+      - app-network-mtips5s-discord
+
+
+
+
+networks:
+  app-network-mtips5s-discord:
+    driver: bridge
